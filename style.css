@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+body{
+    background-color: rgb(156, 242, 242);
+}
+
+h1{
+    text-align: center;
+    font-size: 70px;
+    color: brown;
+    font-family: Anton;
+}
+img{
+    height: 250px;
+    width: 500px;
+    margin: 30px auto;
+    /* margin-left: 35%; */
+    /* margin-right: 50%; */
+    display: block;
+    
+}
+.banner{
+    background-color: aliceblue;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+p{
+    text-align: center;
+    color: rgb(231, 178, 109);
+    font-size: 30px;
+    font-weight: 200;
+    font-family: Mukta;
+    
+}
